@@ -13,4 +13,4 @@ metrics = model.evaluate(test_data)
 
 print(metrics['accuracy'])
 
-model.export_coreml('JusticeLeagueModel')
+model.export_coreml('AvengersModel')
